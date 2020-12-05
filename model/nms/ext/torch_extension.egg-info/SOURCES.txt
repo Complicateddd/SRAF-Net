@@ -1,0 +1,11 @@
+build.py
+/home/ubuntu/code/Fcos2_add_scene/FCOS.Pytorch-master/model/nms/ext/vision.cpp
+/home/ubuntu/code/Fcos2_add_scene/FCOS.Pytorch-master/model/nms/ext/cpu/nms_cpu.cpp
+/home/ubuntu/code/Fcos2_add_scene/FCOS.Pytorch-master/model/nms/ext/cuda/nms.cu
+/home/ubuntu/deepsort/deep_sort_pytorch-master/deep_sort_pytorch-master/detector/YOLOv3/nms/ext/vision.cpp
+/home/ubuntu/deepsort/deep_sort_pytorch-master/deep_sort_pytorch-master/detector/YOLOv3/nms/ext/cpu/nms_cpu.cpp
+/home/ubuntu/deepsort/deep_sort_pytorch-master/deep_sort_pytorch-master/detector/YOLOv3/nms/ext/cuda/nms.cu
+torch_extension.egg-info/PKG-INFO
+torch_extension.egg-info/SOURCES.txt
+torch_extension.egg-info/dependency_links.txt
+torch_extension.egg-info/top_level.txt
